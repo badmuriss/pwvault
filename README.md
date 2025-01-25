@@ -34,7 +34,7 @@ This project was developed to facilitate password management, ensuring your info
 1. **Clone the Repository with Submodules**
    To clone the repository and initialize the submodules (frontend and backend):
    ```bash
-   git clone --recurse-submodules <REPOSITORY_URL>
+   git clone --recurse-submodules https://github.com/badmuriss/pwvault.git
    cd pwvault
    ```
 
