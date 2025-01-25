@@ -1,0 +1,6 @@
+[submodule "pwvault-front"]
+	path = pwvault-front
+	url = https://github.com/badmuriss/pwvault-front.git
+[submodule "pwvault-back"]
+	path = pwvault-back
+	url = https://github.com/badmuriss/pwvault-back.git
